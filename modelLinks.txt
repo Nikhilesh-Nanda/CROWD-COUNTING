@@ -1,0 +1,2 @@
+CSRNET WEIGHT = https://drive.google.com/file/d/1cgOTCk6QgK_wVbBzamDg6fai1j0lK6Fe/view?usp=drive_link
+YOLO WEIGHT = https://drive.google.com/file/d/1yRR5SsXORQHxNcYGZ4XIO8thU1fMkb1S/view?usp=drive_link
